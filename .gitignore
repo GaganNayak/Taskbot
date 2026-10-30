@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+tasks.json
+tasks.json.tmp*
+coverage/
+.next/
+next-env.d.ts
+*.tsbuildinfo
